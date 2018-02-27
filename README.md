@@ -1,2 +1,2 @@
 # tiffjeung.github.io
-personal website
+Personal website
